@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sucharu Sunipoon</h1>
 <h3 align="center">A passionate FullStack developer from Bangladesh</h3>
-
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-rounded-edges-gif-26214286>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunip9&label=Profile%20views&color=0e75b6&style=flat" alt="sunip9" /> </p>
 
 - 🔭 I’m currently working on **Creww Search Project**
